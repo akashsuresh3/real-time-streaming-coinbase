@@ -12,3 +12,6 @@ It also includes a Perplexity Calculator, a metric commonly used in AI and NLP m
 
 # Tech Stack
 Kotlin | MVVM Architecture | Jetpack Compose | Coinbase WebSocket API | StateFlow & Coroutines | OkHttp WebSockets 
+
+# Video Link explanation
+https://drive.google.com/file/d/1DFygUhcSOJ_burlPWEJ0fzXm18rrDx8O/view?usp=sharing
